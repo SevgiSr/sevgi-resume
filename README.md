@@ -1,4 +1,4 @@
-# Sevgi Grissett
+# Sevgi Grissett (née Sarikaya)
 *Self-Taught Software Developer*  
 Ankara, Turkey  
 sevgisarikaya05@gmail.com | [LinkedIn](https://www.linkedin.com/in/sevgi-grissett/) | [GitHub](https://github.com/SevgiSr)
