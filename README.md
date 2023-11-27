@@ -13,12 +13,12 @@ Dedicated and passionate self-taught software developer with extensive hands-on 
 
 ## Technical Skills
 
-- **Programming Languages**: JavaScript, Python
+- **Programming Languages**: JavaScript, Python, C/C++
 - **Frontend**: HTML, CSS, React.js, Next.js
 - **Backend**: Node.js (Express.js)
 - **Database Technologies**: MongoDB (Mongoose.js)
-- **Tools & Frameworks**: Git, Webpack, socket.io
-- **Other Skills**: Responsive Web Design, Real-Time Web Applications, Cross-Platform Development
+- **Tools & Libraries**: Git, Webpack, socket.io, scikit-learn, TensorFlow, pandas
+- **Other Skills**: Responsive Web Design, Real-Time Web Applications, Cross-Platform Development, Machine Learning, Web Scraping
 
 ---
 
@@ -45,7 +45,7 @@ Dedicated and passionate self-taught software developer with extensive hands-on 
 
 ## Signature Project
 
-### Ezwrite - Story Writing Social Media App
+### EZWrite - Story Writing Social Media App - [Repo](https://github.com/SevgiSr/Ezwrite-App)
 *Independent Development Work*
 
 Developed a comprehensive social media application for story writing, showcasing expertise in full-stack development and user interface design. Implemented key features to enhance user experience and functionality:
