@@ -1,0 +1,74 @@
+/* Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, a {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+/* Basic body styling */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fdfdfd;
+    padding: 20px;
+}
+
+/* Container for the resume content */
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Hyperlink styling */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header styles */
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 15px;
+}
+
+/* List styles */
+ul, ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/* Footer or end-note styling */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #666;
+}
