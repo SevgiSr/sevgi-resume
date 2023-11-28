@@ -1,7 +1,8 @@
 # Sevgi Grissett (née Sarikaya)
-*Self-Taught Software Developer*  
+*Software Developer*  
 Ankara, Turkey  
-sevgisarikaya05@gmail.com | [LinkedIn](https://www.linkedin.com/in/sevgi-grissett/) | [GitHub](https://github.com/SevgiSr)
+sevgisarikaya05@gmail.com | [LinkedIn](https://www.linkedin.com/in/sevgi-grissett/) | [GitHub](https://github.com/SevgiSr)  
+Fluent in English, Turkish, and Russian
 
 ---
 
@@ -59,11 +60,3 @@ Developed a comprehensive social media application for story writing, showcasing
 - **Search and Discovery Features**: Implemented a browsing interface with advanced search and filter capabilities, ensuring efficient database interactions.
 - **Server Management**: Demonstrated proficiency in server setup, management, and deployment of the application.
 - **Problem Solving**: Displayed exceptional problem-solving skills in conceptualizing and implementing innovative features.
-
----
-
-## Professional Development
-
-- **Self-Directed Learning**: Committed to continuous self-improvement and keeping up-to-date with the latest industry trends and technologies.
-- **Community Engagement**: Active participation in online development communities and forums.
-- **Project-Based Learning**: Developed practical skills through diverse and challenging personal projects.
